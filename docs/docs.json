@@ -1,0 +1,64 @@
+[
+	{
+		"Constant" : [
+
+		],
+		"submodules" : [
+
+		],
+		"Function" : [
+
+		],
+		"Variable" : [
+			{
+				"doc" : "The main shortcut to use.",
+				"stripped_doc" : [],
+				"def" : "AppLogoLauncher.hyper",
+				"parameters" : [],
+				"notes" : [],
+				"signature" : "AppLogoLauncher.hyper",
+				"type" : "Variable",
+				"returns" : [],
+				"desc" : "The main shortcut to use.",
+				"name" : "hyper"
+			},
+			{
+				"doc" : "The main apps map.",
+				"stripped_doc" : [],
+				"def" : "AppLogoLauncher.apps",
+				"parameters" : [],
+				"notes" : [],
+				"signature" : "AppLogoLauncher.apps",
+				"type" : "Variable",
+				"returns" : [],
+				"desc" : "The main apps map.",
+				"name" : "apps"
+			}
+		],
+		"stripped_doc" : [
+
+		],
+		"Deprecated" : [
+
+		],
+		"type" : "Module",
+		"desc" : "An app logo launcher",
+		"Constructor" : [
+
+		],
+		"doc" : "",
+		"Field" : [
+
+		],
+		"Command" : [
+
+		],
+		"items" : [
+
+		],
+		"Method" : [
+
+		],
+		"name" : "AppLogoLauncher"
+	}
+]
