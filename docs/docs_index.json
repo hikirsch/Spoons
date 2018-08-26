@@ -1,0 +1,25 @@
+[
+  {
+    "desc": "An app launcher with logo.",
+    "name": "AppLogoLauncher",
+    "type": "Module"
+  },
+  {
+    "desc": "The main shortcut to use.",
+    "module": "AppLogoLauncher",
+    "name": "hyper",
+    "type": "Variable"
+  },
+  {
+    "desc": "Map of key stroke to app name to load",
+    "module": "AppLogoLauncher",
+    "name": "apps",
+    "type": "Variable"
+  },
+  {
+    "desc": "Launch an app.",
+    "module": "AppLogoLauncher",
+    "name": "launch",
+    "type": "Method"
+  }
+]
