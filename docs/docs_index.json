@@ -21,5 +21,10 @@
     "module": "AppLogoLauncher",
     "name": "launch",
     "type": "Method"
+  },
+  {
+    "desc": "A stolen Calendar",
+    "name": "Calendar",
+    "type": "Module"
   }
 ]
